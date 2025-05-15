@@ -1,0 +1,14 @@
+[2025-05-15T09:52:46.928Z] Startup failed: Error: 409: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+    at Telegram.callApi (E:\coding\project\AegisIX\node_modules\telegraf\lib\core\network\client.js:315:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async [Symbol.asyncIterator] (E:\coding\project\AegisIX\node_modules\telegraf\lib\core\network\polling.js:30:33)
+    at async Polling.loop (E:\coding\project\AegisIX\node_modules\telegraf\lib\core\network\polling.js:73:30)
+    at async Telegraf.launch (E:\coding\project\AegisIX\node_modules\telegraf\lib\telegraf.js:194:13)
+    at async startBot (E:\coding\project\AegisIX\index.js:399:5)
+[2025-05-15T09:52:52.354Z] Startup failed: Error: 409: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+    at Telegram.callApi (E:\coding\project\AegisIX\node_modules\telegraf\lib\core\network\client.js:315:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async [Symbol.asyncIterator] (E:\coding\project\AegisIX\node_modules\telegraf\lib\core\network\polling.js:30:33)
+    at async Polling.loop (E:\coding\project\AegisIX\node_modules\telegraf\lib\core\network\polling.js:73:30)
+    at async Telegraf.launch (E:\coding\project\AegisIX\node_modules\telegraf\lib\telegraf.js:194:13)
+    at async startBot (E:\coding\project\AegisIX\index.js:399:5)
